@@ -10,5 +10,3 @@ A fully responsive and modern restaurant website built using **React.js**. This 
 - ✅ Beautiful UI with custom CSS
 - ✅ Google Fonts integration
 - ✅ Structured folder organization
-
-## 📂 Project Structure
